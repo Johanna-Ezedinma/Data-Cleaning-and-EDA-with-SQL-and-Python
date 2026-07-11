@@ -7,8 +7,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanna-ezedinma/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johannaezedinma) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johanna-Ezedinma)
-[![P1-PYTHON_SQL](https://img.shields.io/badge/P1-PYTHON+SQL-181717?style=for-the-badge&logo=python&logoColor=red)](./P2-PYTHON_AUTOMATION/README.md) 
-[![P2-PYTHON_AUTOMATION](https://img.shields.io/badge/P2-PYTHON+AUTOMATION-181717?style=for-the-badge&logo=python&logoColor=orange)](./P1-PYTHON_SQL/README.md) 
+[![P1-PYTHON_SQL](https://img.shields.io/badge/P1-PYTHON+SQL-181717?style=for-the-badge&logo=python&logoColor=red)](./P1-PYTHON_SQL/README.md)  
+[![P2-PYTHON_AUTOMATION](https://img.shields.io/badge/P2-PYTHON+AUTOMATION-181717?style=for-the-badge&logo=python&logoColor=orange)](./P2-PYTHON_AUTOMATION/README.md) 
 
 ---
 
