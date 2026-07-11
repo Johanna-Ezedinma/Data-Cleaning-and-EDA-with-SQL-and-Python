@@ -6,9 +6,12 @@
 **Author:** Johanna Ezedinma  
 **Date:** July 2026   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanna-ezedinma/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johannaezedinma) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johanna-Ezedinma) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanna-ezedinma/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johannaezedinma) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johanna-Ezedinma)
+[![← Back to Main Summary Repository](https://img.shields.io/badge/BACK_TO_MAIN_SUMMARY_REPO←-181717?style=for-the-badge&logo=README&logoColor=white)](../README.md) 
 
 
+
+---
 ## Approach
 
 **The main approach is SQL** (PostgreSQL, connected through Python via `jupysql`), used for the data understanding, cleaning, and validation. Python and `plotnine` were used to turn the SQL query results into charts.    
@@ -120,4 +123,5 @@ PostgreSQL, SQL (via `jupysql`/`ipython-sql`), Python, pandas, plotnine
 
 **Johanna Ezedinma**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johanna-Ezedinma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanna-ezedinma/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanna-ezedinma/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johanna-Ezedinma) 
+[![← Back to Main Summary Repository](https://img.shields.io/badge/BACK_TO_MAIN_SUMMARY_REPO←-181717?style=for-the-badge&logo=README&logoColor=white)](../README.md) 
